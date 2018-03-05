@@ -1,6 +1,7 @@
 # cnode
 
-> project like cnode.js
+> project like cnode
+使用vue vue-router axios编写的cnode社区，调用cnode社区的公共接口进行仿站，是vue的入门级项目
 
 ## Build Setup
 
